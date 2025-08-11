@@ -16,4 +16,4 @@ Version Mobile
 
 ![Mobile](aero/img/aeromobile.png)
 
-[Ver pagina](https://faustoleal.github.io/aero)
+[Ver pagina](https://faustoleal.github.io/Aero/aero)
