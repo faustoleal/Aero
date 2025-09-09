@@ -1,6 +1,6 @@
 import scrollTopButton from "./dom/scroll-top.js";
 import hamburgerMenu from "./dom/menu-hamburguesa.js";
-import { animado } from "./dom/prueba.js";
+import { animado } from "./dom/animado.js";
 
 const d = document;
 
